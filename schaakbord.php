@@ -6,9 +6,9 @@
 <title>Schaakbord 8x8 — Dynamisch</title>
 <style>
 :root {
---tile-size: 60px; /* pas aan naar wens */
---light: #f0d9b5; /* licht vlak (wit-ish) */
---dark: #b58863; /* donker vlak */
+--tile-size: 60px;
+--light: #f0d9b5;
+--dark: #b58863;
 }
 html, body {
 height: 100%;
